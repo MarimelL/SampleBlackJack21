@@ -1,0 +1,16 @@
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.exe
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.deps.json
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.runtimeconfig.json
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.runtimeconfig.dev.json
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.dll
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\ref\BlackJack21.dll
+C:\Users\LeeVhag\source\repos\BlackJack21\bin\Debug\net5.0\BlackJack21.pdb
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.csproj.AssemblyReference.cache
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.AssemblyInfoInputs.cache
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.AssemblyInfo.cs
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.csproj.CoreCompileInputs.cache
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.dll
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\ref\BlackJack21.dll
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.pdb
+C:\Users\LeeVhag\source\repos\BlackJack21\obj\Debug\net5.0\BlackJack21.genruntimeconfig.cache
